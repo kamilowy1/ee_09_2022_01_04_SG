@@ -1,0 +1,59 @@
+body
+{
+font-family: Garamond;
+margin: 0 auto;
+}
+
+#baner 
+{
+background-color: SaddleBrown;
+color: white;
+text-align: center;
+height: 50px;
+margin-top: -23px;
+
+}
+
+#lewy
+{
+background-color: Tan;
+height: 500px;
+width: 40%;
+float: left;
+}
+
+#prawy1
+{
+float: left;
+background-color: Tan;
+height: 250px;
+width: 60%;
+}
+
+#prawy2
+{
+float: left;
+background-color: Tan;
+height: 250px;
+width: 60%;
+}
+
+#stopka
+{
+	clear: both;
+	background-color: SaddleBrown;
+	color: white;
+	
+}
+
+#formularz 
+{
+	background-color: SaddleBrown;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 300px;
+	margin: 5px;
+}
